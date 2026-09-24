@@ -26,6 +26,11 @@ A baseline **Multiple Linear Regression** model was evaluated against an ensembl
 - **Interactive UI (Streamlit):** Pre-configured geographical presets ("Urban / high income", "Inland family district", "Coastal community"), live input validation, feature scaling on inference, and dynamic top-8 feature importance charts.
 
 ---
+#### Machine Learning Pipeline
 
-## 🏗 Architecture & Machine Learning Pipelines
-sent by praveen anna
+* Data Collection and Import
+* Exploratory Data Analysis & Data Cleaning (Handling Nulls and Duplicates)
+* Feature Selection & Data Splitting
+* Feature Scaling (Standardization)
+* Model Building & Training
+* Model Evaluation
