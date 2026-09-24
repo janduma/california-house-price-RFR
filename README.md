@@ -1,5 +1,6 @@
 # 🏡 California Housing Value Predictor
-
+<img width="969" height="532" alt="WhatsApp Image 2026-09-24 at 5 08 02 PM" src="https://github.com/user-attachments/assets/0dbf680c-f889-4759-9df9-28aed63cf02d" />
+<img width="985" height="600" alt="WhatsApp Image 2026-09-24 at 5 07 21 PM" src="https://github.com/user-attachments/assets/d9b766d2-2986-4a48-97d0-4ca3f83c3c1b" />
 An end-to-end Machine Learning web application and regression pipeline designed to predict median district housing values across California based on demographic, structural, and geographical indicators.
 
 ---
